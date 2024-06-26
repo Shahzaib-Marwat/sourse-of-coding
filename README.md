@@ -1,3 +1,4 @@
 # sourse-of-coding
 my fast git repository
-auther : shahzaib Marwat
+<br>
+author : shahzaib Marwat
